@@ -1,0 +1,17 @@
+identity:
+    appId: dashboardclient
+auth:
+    key: a-j5sxd2-okuyb182ni
+    token: 4hzfZi&BV+Iz*Jg@3e
+options:
+    domain: internetofthings.ibmcloud.com
+    logLevel: debug
+    http:
+        verify: True
+    mqtt:
+        instanceId: instance1
+        port: 1883
+        transport: tcp
+        cleanStart: false
+        sessionExpiry: 7200
+        keepAlive: 120

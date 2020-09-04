@@ -1,0 +1,16 @@
+identity:
+    appId: dashboardclient
+auth:
+    key: a-j5sxd2-okuyb182ni
+    token: 4hzfZi&BV+Iz*Jg@3e
+options:
+    domain: internetofthings.ibmcloud.com
+    logLevel: debug
+    mqtt:
+        instanceId: instance1
+        port: 8883
+        transport: tcp
+        cleanStart: true
+        sessionExpiry: 7200
+        keepAlive: 60
+        caFile: /home/pi/Desktop/MQTT Masterclass/Section 10/CAfile.pem

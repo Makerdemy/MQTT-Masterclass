@@ -1,0 +1,15 @@
+identity:
+    appId: mqtt
+auth:
+    key: a-j5sxd2-g5bdnthqgh
+    token: S4?HM8wno3SdFDLd?g
+options:
+    domain: internetofthings.ibmcloud.com
+    logLevel: debug
+    mqtt:
+        instanceId: instance1
+        port: 1883
+        transport: tcp
+        cleanStart: true
+        sessionExpiry: 7200
+        keepAlive: 60
