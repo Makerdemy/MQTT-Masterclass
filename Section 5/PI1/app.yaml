@@ -1,13 +1,14 @@
 identity:
-    appId: mqtt
+    orgId: g42x7w
+    typeId: Raspberrypi1
+    deviceId: client1
 auth:
-    key: a-j5sxd2-g5bdnthqgh
-    token: S4?HM8wno3SdFDLd?g
+    key: a-g42x7w-ctvcvvnvzd
+    token: _UL2m05gSyhq3WRruB
 options:
     domain: internetofthings.ibmcloud.com
     logLevel: debug
     mqtt:
-        instanceId: instance2
         port: 1883
         transport: tcp
         cleanStart: true
